@@ -2,8 +2,6 @@
 
 // alert("Hii")  //wont work as we are using nodejs not browser for running js
 
-//-------------
-
 /**Data Types
  * number
  * bigint
@@ -13,5 +11,6 @@
  * undefined
  */
 
-console.log(typeof null)
-console.log(typeof undefined)
+// typeof
+console.log(typeof null)    //object
+console.log(typeof undefined)   //undefined
