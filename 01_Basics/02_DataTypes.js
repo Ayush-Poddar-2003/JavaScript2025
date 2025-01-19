@@ -2,7 +2,7 @@
 
 // alert("Hii")  //wont work as we are using nodejs not browser for running js
 
-/**Data Types
+/**DATA TYPES
  * number
  * bigint
  * string

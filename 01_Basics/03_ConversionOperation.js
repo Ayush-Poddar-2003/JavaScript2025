@@ -9,7 +9,7 @@ console.log(typeof valueInInteger)  //number
 let name = "Ayush69"
 let ModifiedName = Number(name)
 console.log(typeof ModifiedName)    //number
-console.log(ModifiedName)  //Will show Nan which is also a datatype
+console.log(ModifiedName)  //Will show "Nan" which is also a datatype
 
 let a = 0
 let a2 = Number(a)
