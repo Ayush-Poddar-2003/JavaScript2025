@@ -1,6 +1,4 @@
-<center>Chai aur Code</center>
-
----
+# <center>Chai aur Code</center>
 
 Javascript earlier, used to run only in browser, thanks to nodejs  
 To run any Js file -
