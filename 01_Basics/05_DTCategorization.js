@@ -1,4 +1,4 @@
-/**HOW DT ARE CATEGORIZED AND ON WHAT BASIS ?
+/* HOW DT ARE CATEGORIZED AND ON WHAT BASIS ?
  * Based on how data is stored and how is accessed in the memory
  * 
  * 1. PRIMITIVE (Call by value)

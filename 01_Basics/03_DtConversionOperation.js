@@ -11,10 +11,6 @@ let ModifiedName = Number(name)
 console.log(typeof ModifiedName)    //number
 console.log(ModifiedName)  //Will show "Nan" which is also a datatype
 
-let a = 0
-let a2 = Number(a)
-console.log(typeof a)   //number
-console.log(a)  //0
 
 /** NUMBER conversions
  * "33" => 33

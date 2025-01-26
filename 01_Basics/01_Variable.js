@@ -1,20 +1,23 @@
+/*JavaScript Variables can be declared in 4 ways:
+    Using const     
+    Using let
+    Using var
+    Automatically
+*/
+
 const accountId = 14453
 // accountId = 69 //constants can't be modified
 
-// Variables -
+// VARIABLES -
 let accountEmail = "ayush1603@gmail.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
-
-accountEmail = "ayush@gmail.com"
-accountPassword = "965"
-accountCity = "Delhi"
 
 //Ab rather then printing one by one we can print all at once
 console.table([accountEmail, accountPassword, accountCity])
 
 
-/* Var vs let
+/* VAR VS LET
  * var never understood scope hence is rarely used,
  * Always let is used 
  */

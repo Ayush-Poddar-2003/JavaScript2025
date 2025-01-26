@@ -2,15 +2,17 @@
 
 // alert("Hii")  //wont work as we are using nodejs not browser for running js
 
-/**DATA TYPES
- * number
- * bigint
- * string
- * boolean
- * null : special and fav for interviewwers
- * undefined
- */
+/* JavaScript has 8 Datatypes
+    String
+    Number
+    Bigint
+    Boolean
+    Undefined
+    Null
+    Symbol
+    Object 
+*/
 
 // typeof
-console.log(typeof null)    //object
+console.log(typeof null)        //object
 console.log(typeof undefined)   //undefined
